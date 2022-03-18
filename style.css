@@ -1,0 +1,27 @@
+body{
+    background: #60c2cf;
+}
+
+#nums{
+    display: block;
+    font-size: 100px;
+    color: dodgerblue;
+}
+
+#numsLabel{
+    display: block;
+    font-size: 35px;
+    color: dodgerblue;
+}
+
+#input, #submit, #new{
+    display: inline-block;
+    font-size: 25px;
+    color: dodgerblue;
+}
+
+#output{
+    display: block;
+    font-size: 40px;
+    color: dodgerblue;
+}
